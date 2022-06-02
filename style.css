@@ -1,0 +1,11 @@
+body{
+    background-color: #CAC6FF;
+}
+.bg{
+    background-color: #8e86f5;
+}
+table, th,tr{
+    display: inline-table;
+    text-align: center;
+    border: 2px solid rgb(252, 252, 252);
+}
